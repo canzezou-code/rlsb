@@ -1,0 +1,10 @@
+{
+  "description": "Streamline attendance tracking with a facial recognition system that requires users to clock in daily at 1 PM, ensuring accountability and providing weekly reports.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
